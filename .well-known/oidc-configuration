@@ -1,13 +1,8 @@
 {
-  "issuer": "https://login.qa.alterramtnco.com/",
-  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize",
-  "token_endpoint": "https://login.qa.alterramtnco.com/oauth/token",
-  "device_authorization_endpoint": "https://login.qa.alterramtnco.com/oauth/device/code",
-  "userinfo_endpoint": "https://login.qa.alterramtnco.com/userinfo",
-  "mfa_challenge_endpoint": "https://login.qa.alterramtnco.com/mfa/challenge",
-  "jwks_uri": "https://login.qa.alterramtnco.com/.well-known/jwks.json",
-  "registration_endpoint": "https://login.qa.alterramtnco.com/oidc/register",
-  "revocation_endpoint": "https://login.qa.alterramtnco.com/oauth/revoke",
+  "issuer": "https://www.theexperienceengine.com/",
+  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize&audience=alterra-amp-api",
+  "token_endpoint": "https://qa-happyland.te2.biz/v3/tokens",
+  "jwks_uri": "https://qa-happyland.te2.biz/v1/keys",
   "scopes_supported": [
     "openid",
     "profile",
