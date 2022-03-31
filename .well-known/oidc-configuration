@@ -1,6 +1,6 @@
 {
   "issuer": "https://www.theexperienceengine.com/",
-  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize&audience=alterra-amp-api",
+  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize?audience=alterra-amp-api",
   "token_endpoint": "https://qa-happyland.te2.biz/v4/tokens",
   "jwks_uri": "https://qa-happyland.te2.biz/v1/keys",
   "scopes_supported": [
