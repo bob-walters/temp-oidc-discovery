@@ -1,6 +1,6 @@
 {
   "issuer": "https://www.theexperienceengine.com/",
-  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize",
+  "authorization_endpoint": "https://login.qa.alterramtnco.com/authorize?audience=alterra-amp-api",
   "token_endpoint": "https://api.us.te2.io/v4/tokens",
   "jwks_uri": "https://api.us.te2.io/v1/keys",
   "scopes_supported": [
